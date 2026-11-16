@@ -16,13 +16,13 @@ On top of the basic clock, the project includes a smooth second hand, Arabic num
 > Run the program, press `Print Screen` (or use the Snipping Tool), save the images in a `screenshots/` folder with the names below, and they will appear here.
 
 | Screenshot | Description |
-|---|---|
-| ![Classic theme](screenshots/classic.png) | Classic theme with lighting ON |
-| ![Midnight theme](screenshots/midnight.png) | Midnight theme (press `T`) |
-| ![Rotated clock](screenshots/rotated.png) | Clock rotated with the mouse, showing 3D depth and shading |
-| ![Light off](screenshots/light_off.png) | Lighting OFF (press `L`) for comparison |
-| ![Alarm mode](screenshots/alarm.png) | Alarm mode with the red alarm marker on the bezel |
-| ![Stopwatch mode](screenshots/stopwatch.png) | Stopwatch mode (press `S`) |
+|---|---|s
+| ![Classic theme](classic.png) | Classic theme with lighting ON |
+| ![Midnight theme](Midnight.png) | Midnight theme (press `T`) |
+| ![Rotated clock]( Rotated.png) | Clock rotated with the mouse, showing 3D depth and shading |
+| ![Light off](Lightsoff.png) | Lighting OFF (press `L`) for comparison |
+| ![Alarm mode](Alarm.png) | Alarm mode with the red alarm marker on the bezel |
+| ![Stopwatch mode](Stopwatch.png) | Stopwatch mode (press `S`) |
 
 ---
 
