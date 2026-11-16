@@ -19,7 +19,7 @@ On top of the basic clock, the project includes a smooth second hand, Arabic num
 |---|---|s
 | ![Classic theme](classic.png) | Classic theme with lighting ON |
 | ![Midnight theme](Midnight.png) | Midnight theme (press `T`) |
-| ![Rotated clock]( Rotated.png) | Clock rotated with the mouse, showing 3D depth and shading |
+| ![Rotated clock]( Rotate.png) | Clock rotated with the mouse, showing 3D depth and shading |
 | ![Light off](Lightsoff.png) | Lighting OFF (press `L`) for comparison |
 | ![Alarm mode](Alarm.png) | Alarm mode with the red alarm marker on the bezel |
 | ![Stopwatch mode](Stopwatch.png) | Stopwatch mode (press `S`) |
